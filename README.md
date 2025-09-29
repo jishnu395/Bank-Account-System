@@ -1,6 +1,6 @@
-# Bank Account System
+# Bank Account Simulation
 
-Bank Account System is a Java-based command-line application that simulates basic banking operations. It demonstrates core Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, and method overriding. Users interact via a simple console menu to create accounts, deposit and withdraw funds, view balances, and check transaction histories. The project includes a base BankAccount class and a specialized SavingsAccount subclass that introduces an interest mechanism to enhance functionality.
+Bank Account Simulation is a Java-based command-line application that simulates basic banking operations. It demonstrates core Object-Oriented Programming (OOP) principles such as encapsulation, inheritance, and method overriding. Users interact via a simple console menu to create accounts, deposit and withdraw funds, view balances, and check transaction histories. The project includes a base BankAccount class and a specialized SavingsAccount subclass that introduces an interest mechanism to enhance functionality.
 
 ## Features
 
